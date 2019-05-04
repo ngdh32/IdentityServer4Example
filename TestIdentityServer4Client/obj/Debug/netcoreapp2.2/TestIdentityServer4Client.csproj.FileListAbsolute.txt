@@ -1,0 +1,11 @@
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.csprojAssemblyReference.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.csproj.CoreCompileInputs.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.AssemblyInfoInputs.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.AssemblyInfo.cs
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/bin/Debug/netcoreapp2.2/TestIdentityServer4Client.deps.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/bin/Debug/netcoreapp2.2/TestIdentityServer4Client.runtimeconfig.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/bin/Debug/netcoreapp2.2/TestIdentityServer4Client.runtimeconfig.dev.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/bin/Debug/netcoreapp2.2/TestIdentityServer4Client.dll
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/bin/Debug/netcoreapp2.2/TestIdentityServer4Client.pdb
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.dll
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4Client/obj/Debug/netcoreapp2.2/TestIdentityServer4Client.pdb

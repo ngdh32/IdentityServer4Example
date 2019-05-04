@@ -1,0 +1,14 @@
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/bin/Debug/netcoreapp2.2/TestIdentityServer4API.deps.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/bin/Debug/netcoreapp2.2/TestIdentityServer4API.runtimeconfig.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/bin/Debug/netcoreapp2.2/TestIdentityServer4API.runtimeconfig.dev.json
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/bin/Debug/netcoreapp2.2/TestIdentityServer4API.dll
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/bin/Debug/netcoreapp2.2/TestIdentityServer4API.pdb
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.csprojAssemblyReference.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.csproj.CoreCompileInputs.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.RazorAssemblyInfo.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.RazorAssemblyInfo.cs
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.AssemblyInfoInputs.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.AssemblyInfo.cs
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.RazorTargetAssemblyInfo.cache
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.dll
+/Users/ngdh32/Projects/TestIdentityServer4Core/TestIdentityServer4API/obj/Debug/netcoreapp2.2/TestIdentityServer4API.pdb
